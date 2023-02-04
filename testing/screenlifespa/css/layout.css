@@ -1,0 +1,55 @@
+html,body{
+padding:0;
+margin:0;
+background:#0355A3;
+width:100%;
+}
+
+#wrapper{
+width:1024px;
+
+margin:0 auto;
+
+
+}
+	#container{
+	height:100%;
+	
+	}
+	
+	#content{
+	height:auto;
+	width:800px;
+	
+	float:left;
+	}
+	
+	#right{
+	float:left;
+	padding:10px;
+	width:196px;
+	margin-top:65px;
+	height:459px;
+	background:#fff;
+	border:3px solid #7C9127;
+	
+	}
+	.clear{
+	clear:both;
+	}
+	#footer{
+	position:relative;
+	padding:10px 10px 10px 20px;
+	height:20px;
+	width:820px;
+
+	
+	}
+	
+	#clocklife{
+	position:absolute;
+	right:0;
+	bottom:0;
+	width:50px;
+	height:50px;
+	}
